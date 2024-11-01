@@ -1,0 +1,9 @@
+﻿  programmer_calculator.cpp
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(203,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(204,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(225,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(240,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(244,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(248,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\programmer_calculator.cpp(252,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  programmer_calculator.vcxproj -> C:\Users\dell\AbdElrhman\Computer Science\C++\intro_projects\programmer_calculator\programmer_calculator\x64\Debug\programmer_calculator.exe
